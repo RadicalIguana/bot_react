@@ -1,3 +1,3 @@
-REACT_APP_BACKEND_URL = "https://eraseborderbot-production-35f3.up.railway.app/quiz"
+REACT_APP_BACKEND_URL = "http://127.0.0.1:8000/"
 
 export default REACT_APP_BACKEND_URL
